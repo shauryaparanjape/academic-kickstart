@@ -12,29 +12,25 @@ weight = 5
   interests = [
     "Artificial Intelligence",
     "Computational Linguistics",
-    "Information Retrieval"
+    "Information Retrieval",
+    "Data Analytics",
+    "Data Visualization"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "MS In Analytics"
+  institution = "Georgia State University"
+  year = 2018
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  course = "BEng in Electronics and Telecommunication"
+  institution = "University of Pune"
+  year = 2015
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Shourya Paranjape is a data enthusiast and professional currently working as an intern at Techbridge. He has a passion for helping companies achieve immense success by the virtue of data driven insights and predictive modelling techniques. He has previously worked for IT services subsidiary of Coca-Cola and also at Accenture.
